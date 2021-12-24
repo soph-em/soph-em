@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @riacule
 - 👀 I’m interested in learning full stack. I'm also interested in pico8 for fun projects.
-- 🌱 I’m currently learning using The Odin Project. 
+- 🌱 I’m currently learning using The Odin Project and Codecademy. 
 - 📫 Message me on GitHub to reach me!
 
 <!---
