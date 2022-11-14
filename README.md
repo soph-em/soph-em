@@ -15,3 +15,4 @@ I'm currently studying the <a href="https://www.open.ac.uk/devnet-skills/">DevNe
 I'm also working through <a href="https://www.theodinproject.com/paths/foundations/courses/foundations"/>The Odin Project</a>. Here are my projects so far:
 -  [Project: Recipes](https://github.com/soph-em/odin-recipes)
 -  [Project: Landing Page](https://github.com/soph-em/Odin-landingPage)
+-  [Project: Rock Paper Scissors](https://github.com/soph-em/OdinProjectRockPaperScissors)
