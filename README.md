@@ -4,6 +4,7 @@
 
 
 My latest personal project is Subreddit Guesser:
--<a href="https://0121efec.redditguesser.pages.dev/">Live demo</a>
--<a href='https://github.com/soph-em/redditguesser'>Code</a>
+- [Live Demo](https://0121efec.redditguesser.pages.dev/)
+- [Code](https://github.com/soph-em/redditguesser)
+
 
