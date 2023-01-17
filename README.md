@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sophie
-- 📫 Message me on GitHub or Twitter to reach me!
+- 📫 Message me on Twitter to reach me!
 - 🐦 <a href="https://twitter.com/soph_m_e">My Twitter</a>
 
 
