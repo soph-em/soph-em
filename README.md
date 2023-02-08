@@ -11,7 +11,7 @@
 
 I've also made:
 - a Subreddit Guesser game:
-- - [Live Demo](https://redditguesser.pages.dev/)
+- - [Live Website](https://subredditguesser.com/)
 - - [Code](https://github.com/soph-em/redditguesser)
 - an example app website layout:
 - - [Live Demo](https://aecd8023.safetubewebsite.pages.dev/)
