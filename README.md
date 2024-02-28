@@ -9,7 +9,41 @@
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
-  
+    <tr>
+      <td width="50%" valign="top">
+      <h3 align="center">DailyKCAL - Website</h3>
+        <br />
+      <a target="_blank" href="https://dailykcal.app/">
+            <img src="images/dailykcal.png" width="100%"  alt="daily kcal"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://dailykcal.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=svelte&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>DailyKCAL - Website </strong> - Landing page website made for app developer.</p>
+    </td>
+   
+<td width="50%" valign="top">
+  <h3 align="center">Sync List</h3>
+  <br />
+  <a>
+    <img src="images/synclist.png" width="100%" alt="sync list" />
+  </a>
+  <br />
+  <p align="center">
+
+  <a href="https://sync-list.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=svelte&logo-color=white" />
+  </a>
+  <p><strong>Sync List</strong> - Pre-launch website made for app developer.</p>
+</td>
+
+
+
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Subreddit Guesser</h3>
