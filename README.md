@@ -14,7 +14,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Subreddit Guesser</h3>
         <br />
-        <a target="_blank" href="http://www.subredditguesser.com">
+        <a target="_blank" href="(https://redditguesser.pages.dev/">
             <img src="images/subredditGuesser.gif" width="100%" alt="Guess the subreddit game"/>
         </a>
         <br />
