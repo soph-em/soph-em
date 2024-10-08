@@ -118,43 +118,7 @@
 
 
   </tr>
-    <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Photography Portfolio</h3>
-        <br />
-        <a target="_blank" href="https://sophieearlphotography.pages.dev/">
-            <img src="images/Screencast-from-2023-07-17-16-57-29.gif" width="100%" alt="Photography portfolio"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/soph-em/sophieearlphotography" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://sophieearlphotography.pages.dev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=svelte&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>Sveltekit</strong> - Photography portfolio website.</p>
-    </td>
-   <td width="50%" valign="top">
-      <h3 align="center">Sami's Salon</h3>
-      <br />
-        <a target="_blank" href="https://hairdesignbysami.pages.dev/">
-          <img src="images/hairbySammi.gif" width="100%" alt="Hair design by Sami Website"/>
-        </a>
-      <br />
-        <p align="center">
-  <a href="https://github.com/soph-em/HairDesignbySami" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://hairdesignbysami.pages.dev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=svelte&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>Sveltekit</strong> - Website for a hairdressers.</p>
-    </td>
-  </tr>
+
 </table>
 
 <h3 align="center">Languages and Tools:</h3>
